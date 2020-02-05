@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReactiveJava/ReactiveJava.iml" filepath="$PROJECT_DIR$/ReactiveJava/ReactiveJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReactiveJava/ReactiveJava.iml" filepath="$PROJECT_DIR$/ReactiveJava/ReactiveJava.iml" group="ReactiveJava" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactiveJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactiveJava_main.iml" group="ReactiveJava" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactiveJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactiveJava_test.iml" group="ReactiveJava" />
     </modules>
